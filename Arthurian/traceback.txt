@@ -1,0 +1,32 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/sequence02.rpy", line 16, in script
+    "[ChapTwo1Two]"
+KeyError: u'ChapTwo1Two'
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/sequence02.rpy", line 16, in script
+    "[ChapTwo1Two]"
+  File "C:\Users\param\Desktop\renpy-7.3.2-sdk\renpy\ast.py", line 706, in execute
+    renpy.exports.say(who, what, *args, **kwargs)
+  File "C:\Users\param\Desktop\renpy-7.3.2-sdk\renpy\exports.py", line 1336, in say
+    who(what, *args, **kwargs)
+  File "C:\Users\param\Desktop\renpy-7.3.2-sdk\renpy\character.py", line 1126, in __call__
+    what = what_pattern.replace("[what]", sub(what, translate=True))
+  File "C:\Users\param\Desktop\renpy-7.3.2-sdk\renpy\character.py", line 1115, in sub
+    return renpy.substitutions.substitute(s, scope=scope, force=force, translate=translate)[0]
+  File "C:\Users\param\Desktop\renpy-7.3.2-sdk\renpy\substitutions.py", line 253, in substitute
+    s = formatter.vformat(s, (), kwargs)
+  File "/home/tom/ab/x64lucid-deps/install/lib/python2.7/string.py", line 563, in vformat
+  File "/home/tom/ab/x64lucid-deps/install/lib/python2.7/string.py", line 585, in _vformat
+  File "/home/tom/ab/x64lucid-deps/install/lib/python2.7/string.py", line 646, in get_field
+  File "/home/tom/ab/x64lucid-deps/install/lib/python2.7/string.py", line 605, in get_value
+KeyError: u'ChapTwo1Two'
+
+Windows-8-6.2.9200
+Ren'Py 7.3.2.320
+Vox Dei: The Legend of King Arthur 0.01
+Mon Sep 30 12:08:48 2019

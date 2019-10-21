@@ -1,0 +1,164 @@
+Featured Characters: Deckard, Raechelle, Nemea, Lucan, Bedivere, Tristan, Kahedin, Iseult, Dagonet, Moraien
+Side Characters: Arthur, Guinevere, Lancelot
+Villains: Wlencing, Udaeus, Procurator, Lot, Cymen
+
+Intro: 
+	Deckard, Mordred and Lucan go and kill Cymen, who is hunting Nemea to get Lethe. Mordred and Lucan get away, but the Questing Beast arrives and causes Deckard and Nemea to be left behind to be captured by the South Saxons led by Wlencing.
+
+Sequence One:
+	Wlencing decides to use Deckard and Nemea to find out if it is true that the Procurator is trying to extort the Germanic Kingdoms for the Roman empire. This sequence details the journey of Deckard and Nemea from the Clymenshore to the court of King Clovis.
+	
+	Options:
+		* Deckard can hide his identity to Wlencing or reveal it.
+		* Deckard kills the druid on the boat or lets Nemea handle it
+		
+	Side Scenes:
+		* Emperor Zeno discussing his plot to rid the world of the Ostrogoths with the young Romulus Augustus.
+		* Lucan tries to seduce Raechelle upon returning to Camelot and she smashes a leather book over his head.
+		* Tristan and Mordred arguing with each other on whether or not to go back for Deckard.
+		* Wlencing discussing the rumours of Lucius Tiberius and what they mean for Arthur's civil war with his servant.
+		* King Clovis discussing the disruption of trade from Britannia due to Arthur's civil war with Ragnachar.
+		
+Sequence Two:
+	Deckard and Nemea try to curry the favour of King Clovis against the Procurator, aware that he is a threat. The Procurator uses the presence of a Spartoi woman, Renee, to get Deckard out of Clovis' castle.
+	
+	Options:
+		* Deckard's test on Renee goes by on a random factor.
+		* Deckard can spare Renee or kill her for who she is.
+	
+	Side Scenes:
+		* Dagonet and Moraien battle and capture Leodegrance and chain him in the dungeons of Camelot
+		* Bedivere and Lucan interrogate the captured full vampire sister of Guinevere
+		* Tristan receives a letter from Mark of Cornwall requesting he retrieve Iseult
+		
+Sequence Three:
+	Deckard and Nemea are captured by the Procurator, they learn his plans and they escape from his camp of Ostrogoths. Deckard convinces Nemea that stopping Lucius Tiberius means they could avoid the Battle of Camlann.
+	
+	Side Scenes:
+		* Tristan rescues Iseult but the two fall in love and he brings her back to Camelot
+	
+Sequence Four:
+	Deckard and Nemea return to Britannia from their jaunt in Gaul with word of Lucius Tiberius' plans. 
+	
+	The vision of the Battle of Camlann changes based on previous choices.
+	
+Sequence Five:
+	King Arthur leads his forces against Lucius Tiberus and his army of Ostrogoths.
+	
+Sequence Seven:
+	The forces of Camelot against those of King Urien and King Mark.
+	
+Sequence Eight:
+	Deckard, Nemea, Tristan, Iseult and Kahedin in the dungeons of King Mark.
+	
+Sequence Nine:
+	Deckard and Palomedes against the Questing Beast.
+	The Questing Beast reveals its role in hunting down the Spartoi.
+	The Questing Beast reveals that back in Sequence One, it was after Wlencing, revealing he is of the Spartoi.
+	
+[Nine Month Gap for DLC to take place]
+	
+Sequence Ten:
+	The Battle of Mercredesburne between Camelot and the South Saxons occurs:
+		Deckard battles Wlencing briefly but the Saxon chooses to fight King Arthur instead and is defeated.
+		King Arthur reveals to Deckard that Wlencing is a Spartoi and sends him out of the battle to find him.
+		The battle ends in a phyrric victory for Camelot over the South Saxons.
+	Raechelle learns that she is one of the Spartoi from Kahedin and decides to drink the water from Lethe.
+	
+Deckard Endings:	Deckard's choices through the game determine if he gets to Raechelle and what he does if he gets to her before Lethe.
+	Raechelle drinks the waters of Lethe, Deckard kisses her goodbye and she is carried into her next life.
+	Raechelle drinks the waters of Lethe, Deckard drinks them with her and they are carred into their next lives.
+	Deckard gets to Raechelle before she can drink the waters of Lethe and they decide to prepare for the Battle of Camlann.
+	Deckard gets to Raechelle before she can drink the waters of Lethe and they decide to leave Britannia to its fate.
+	Deckard gets to Raechelle before she can drink the waters of Lethe and they decide to prevent the Battle of Camlann for good.
+	
+Nemea Endings:		Deckard's choices through the game determine how Nemea is treated when she gets to Camelot.
+	
+Vision Endings:		Deckard's choices thrugh the game determine what vision Nimue will have of the Battle of Camlann
+					497 Future Conditions:
+						* Deckard spared Renee despite being a Spartoi
+						* Raechelle stayed at Camelot with Deckard
+					503 Future Conditions:
+						* Deckard spared Renee despite being a Spartoi
+						* Raechelle must be gone from Camelot
+					521 Future Conditions:
+						* Deckard killed Renee for being a Spartoi
+						* Raechelle must be gone from Camelot
+						* Nemea must be gone from Camelot
+						* Cathbad must have been slain
+						* Mordred must be alive
+	497:
+		Raechelle is gone from Camelot; Mordred Lives:
+			The Battle of Camlann occurs just as it did in Nemea's original vision.
+			Arthur allows Mordred to kill him, inspiring his forces to rally against the Picts and emerge victorious.
+			Mordred is captured and executed by Bedivere with Excalibur for his rebellion against Camelot.
+			Lucan is assassinated by a Pict going to desecrate Arthur's body but he manages to kill his assassin.
+			Bedivere tosses Excalibur into the Channel, where he sees the hand of Neptune's granddaughter Triteia seize it.
+			Arthur's body is taken by Nimue to Avalon, so that it can be undisturbed forever.
+		Raechelle is gone from Camelot; Mordred Dies:
+			The Battle of Camlann occurs just as it did in Nemea's original vision, but with Agravain in place of the dead Mordred.
+			Arthur allows Agravain to kill him, inspiring his forces to rally against the Picts and emerge victorious.
+			Agravaine is captured and executed by Bedeivere with the Red Death for his rebellion against Camelot.
+			Lucan kills a Pict going to desecrate Arthur's body before breaking down in tears over his dead king.
+			Bedivere tosses Excalibur into the Channel, where he sees the hand of Neptune's granddaughter Triteia seize it.
+			Arthur's body is taken by Nimue to Avalon, so that it can be undisturbed forever.
+			
+		Future Changed to 503, Mordred Lives:
+			King Lot's horde of Picts has grown far larger, with troops at Hadrian's wall noting a migration to Orkney.
+			Agravain exposes the affair of Lancelot du Lac and Guinevere, he is killed by Lancelot, who escapes.
+			Arthur has Guinevere sentenced to death by fire, with Gaheris and Gareth dying when Lancelot rescues her.
+			Gawain tracks Lancelot du Lac and Guinevere but he is defeated in a duel by Lancelot and spared.
+			Lancelot du Lac and Guinevere are given shelter in the court of King Clovis.
+			King Clovis sends Lancelot du Lac and Guinevere to the Ostrogothic Kingdom of Italy to avoid war with Camelot.
+		Future Changed to 503, Mordred Dies:
+			King Lot's horde of Picts has grown far larger, with troops at Hadrian's wall facing growing raids every week.
+			Agravain exposes the affair of Lancelot du Lac and Guinevere but Lancelot escapes him.
+			Arthur has Guinevere sentenced to death by fire, with Gaheris and Gareth dying when Lancelot rescues her.
+			Gawain tracks Lancelot du Lac and Guinevere but he is defeated in a duel by Lancelot and spared but wounded.
+			Lancelot du Lac and Guinevere are given shelter in the court of King Clovis.
+			King Clovis sends Lancelot du Lac and Guinevere to the Visigothic Kingdom of Hispania to avoid war with Camelot.
+		
+		Future Changed to 521:
+			King Lot's horde of Picts has grown far larger, with many Pictish kings swearing fealty unto him.
+			Agravain exposes the affair of Lancelot du Lac and Guinevere but Lancelot escapes him.
+			Arthur has Guinevere sentenced to death by fire, with Agravain, Gaheris and Gareth dying when Lancelot rescues her.
+			Gawain tracks Lancelot du Lac and Guinevere but he is defeated in a duel by Lancelot and spared but wounded.
+			Gawain dies due to his wounds, begging for Lancelot du Lac to make things right as the noble leaves his body.
+			Lancelot du Lac leaves Guinevere in the custody of King Clovis, allowing her to remain in his court.
+			Lancelot du Lac brings Gawain's body to King Arthur in Camelot and is exiled beyond Hadrian's wall.
+			Lancelot du Lac begins fighting a guerrilla war against the Picts, trying to undermine King Lot's horde.
+			King Clovis fakes Guinevere's death and has her transported all the way to Constantinople for her to repent.
+			Tristan tries to win back Iseult from King Mark, but his uncle poisons him and he is realizes he is dying.
+			Tristan dies in the arms of Kahedin, begging his best friend to finish his job and save Iseult from King Mark.
+			Lucan becomes sober, vowing to Arthur that he will no longer take solace in drinks and whores.
+				
+	503:
+		Future Changed to 521:
+			King Lot is met by Spartoi led by Udaeus, tired of being hounded by Camelot's nobles and they join his horde as commanders.
+			Cathbad resurfaces after his defeat in 484 and joins the horde of King Lot as a powerful druid.
+			Lancelot du Lac has become a grizzled warrior but his hunting of the Picts has given Udaeus and Cathbad more power.
+			Guinevere has ingratiated herself with Ariadne, the wife of Emperor Anastasius, successor to Emperor Zeno.
+			Guinevere's regret over betraying King Arthur is clear, with her using his policy to influence Emperor Anastasius.
+			Kahedin rescues Iseult from King Mark, the two having had fallen in love with each other and they go to King Clovis.
+			King Clovis vows not to give up Kahedin and Eseult, feeling like he'd failed Lancelot du Lac and Guinevere before.
+	
+	521:
+		Mordred leads the horde of Picts with Udaeus and Cathbad by his side against the weakened army of Camelot led by Arthur, Lucan and Bedivere.
+		Arthur realizes after brief moments of battle that he will not be able to defeat the Pictish horde and challenges Mordred to a single duel.
+		Mordred agrees to duel Arthur, believing that it will be easy to defeat the now seemingly decrepit, wasting away old king he once served.
+		Arthur and Mordred duel with their armies gathered around them, with them discussing the dream and Mordred's rejection of it during the duel.
+		Mordred is distracted from the duel by an arriving Lancelot, who assassinates Udaeus before being cast down himself by Cathbad.
+		Mordred defeats Arthur, realizing that he was allowed to win and finds he still believes in the dream enough not to kill his uncle.
+		Cathbad revolts against Mordred, who commands the Picts still under him and Camelot to defeat the druid and then execute him.
+		Mordred bids farewell to King Arthur before leading his Picts back across Hadrian's wall, briefly remembering saving Nemea with Deckard.
+		Arthur willingly goes with Nimue, who takes him with her to the mystical land of Avalon for him to enjoy the fruits of his good life.
+		King Mark, elderly, decrepit and having given up his throne, sneaks up on Kahedin and Iseult in Tournai and kills them both before dying.
+		Lucan dies from wounds suffered protecting Arthur in the arms of Bedivere, begging his brother to forgive him for failing Arthur.
+		Dagonet finds Lancelot du Lac wandering alone by the Wildwood and quickly realizes that he has been rendered blind by Cathbad.
+		Dagonet considers bringing Lancelot du Lac in to face justice for his crimes but realizes that Camelot has fallen and leaves him be.
+		Moraien leaves Britannia to get his land back from the Vandals, telling Bedivere that the dream of King Arthur is over.
+		Guinevere watches as Justinian is appointed consul of Rome in Constantinople, remembering how she tutored him since he was a teenager.
+		Bedivere goes to throw Excalibur in the Channel but finds himself unable to until Triteia emerges from it and gently takes it from him.
+	
+	672: (Nimue's vision of 672 is standard no matter what she sees in the rest of the visions)
+		Nimue has a vision of Caedmon. It is implied but not outright declared that she is responsible for his hymn. She also sees the death of King Cenwalh of Wessex and the accession of Seaxburh as queen. While Nimue is confused by this sight, she feels at content with where the future will go when she hears Seaxburh's court mention Arthur in reverance, claiming he will one day return from Camelot.
